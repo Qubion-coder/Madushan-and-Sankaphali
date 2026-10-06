@@ -1069,6 +1069,10 @@ export default function WeddingInvitation() {
                   <p className="text-sm md:text-base tracking-[0.5em] text-[#4a5741]/50 font-bold pt-12">
                     © 2027 {t.couple.bride} {t.couple.and} {t.couple.groom}
                   </p>
+                  
+                  <p className="text-[#4a5741]/50 text-xs mt-4 font-sans tracking-wider">
+                    Want a beautiful wedding website like this? Create yours with <a target="_blank" rel="noreferrer" className="text-[#b7563c] font-bold hover:text-[#4a5741] underline transition-colors" href="https://wa.me/94707819074">invitemint</a>
+                  </p>
                 </motion.div>
               </div>
             </section>
